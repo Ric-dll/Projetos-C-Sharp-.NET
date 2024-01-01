@@ -27,8 +27,7 @@ namespace DesafioProjetoEstacionamento.Models
         }
 
         public void RemoverVeiculo(){
-            // Pedir para o usuário digitar a placa e armazenar na variável placa
-            // *IMPLEMENTE AQUI*
+            //Pedindo ao usuário as informações
             Console.WriteLine("Digite a Placa do Veículo para Remove-lô: ");
             string placa = Console.ReadLine(); //Variável placa inicializada com valor dado pelo usuário
 
