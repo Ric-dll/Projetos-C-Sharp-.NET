@@ -1,0 +1,14 @@
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/bin/Debug/net8.0/DesafioProjetoEstacionamento
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/bin/Debug/net8.0/DesafioProjetoEstacionamento.deps.json
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/bin/Debug/net8.0/DesafioProjetoEstacionamento.runtimeconfig.json
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/bin/Debug/net8.0/DesafioProjetoEstacionamento.dll
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/bin/Debug/net8.0/DesafioProjetoEstacionamento.pdb
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/obj/Debug/net8.0/DesafioProjetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/obj/Debug/net8.0/DesafioProjetoEstacionamento.AssemblyInfoInputs.cache
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/obj/Debug/net8.0/DesafioProjetoEstacionamento.AssemblyInfo.cs
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/obj/Debug/net8.0/DesafioProjetoEstacionamento.csproj.CoreCompileInputs.cache
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/obj/Debug/net8.0/DesafioProjetoEstacionamento.dll
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/obj/Debug/net8.0/refint/DesafioProjetoEstacionamento.dll
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/obj/Debug/net8.0/DesafioProjetoEstacionamento.pdb
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/obj/Debug/net8.0/DesafioProjetoEstacionamento.genruntimeconfig.cache
+/home/richard/Projects - C#/DesafioFundamentosNET/DesafioProjetoEstacionamento/obj/Debug/net8.0/ref/DesafioProjetoEstacionamento.dll
